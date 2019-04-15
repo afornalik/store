@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>success</title>
 </head>
 <body>
-
+first name  ${ }
+second name ${ }
+salary ${ }
 </body>
 </html>
