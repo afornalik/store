@@ -8,8 +8,8 @@
 </head>
 <body>
 <form action ="" method = "post">
-	 name:  <input type="text" name="first"/>
-	 second name:  <input type="text" name="second"/>
+	 first name:  <input type="text" name="firstName"/>
+	 last name:  <input type="text" name="lastName"/>
 	 salary:  <input type="text" name="salary"/>
 	 <input type="submit" value="Press this button" />
 </form>
