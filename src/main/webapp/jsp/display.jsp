@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8" isELIgnored="false" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +7,8 @@
 <title>success</title>
 </head>
 <body>
-first name  ${ }
-second name ${ }
-salary ${ }
+first name  ${employee.firstName}
+second name ${employee.lastName}
+salary ${employee.salary}
 </body>
 </html>

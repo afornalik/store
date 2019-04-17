@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action ="" method = "post">
+<form action ="/store/add" method = "post">
 	 first name:  <input type="text" name="firstName"/>
 	 last name:  <input type="text" name="lastName"/>
 	 salary:  <input type="text" name="salary"/>
